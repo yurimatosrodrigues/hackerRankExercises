@@ -1,0 +1,16 @@
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\2D Array - DS.exe
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\2D Array - DS.deps.json
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\2D Array - DS.runtimeconfig.json
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\2D Array - DS.runtimeconfig.dev.json
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\2D Array - DS.dll
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\ref\2D Array - DS.dll
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\bin\Debug\net5.0\2D Array - DS.pdb
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.csprojAssemblyReference.cache
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.AssemblyInfoInputs.cache
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.AssemblyInfo.cs
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.csproj.CoreCompileInputs.cache
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.dll
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\ref\2D Array - DS.dll
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.pdb
+C:\Users\PhiDesenv03\Documents\Yuri\Estudos Hacker rank MELI\2D Array - DS\obj\Debug\net5.0\2D Array - DS.genruntimeconfig.cache
