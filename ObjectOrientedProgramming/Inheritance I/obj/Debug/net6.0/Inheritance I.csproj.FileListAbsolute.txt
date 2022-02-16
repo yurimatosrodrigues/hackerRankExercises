@@ -1,0 +1,15 @@
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.csproj.AssemblyReference.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.AssemblyInfoInputs.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.AssemblyInfo.cs
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.csproj.CoreCompileInputs.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\bin\Debug\net6.0\Inheritance I.exe
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\bin\Debug\net6.0\Inheritance I.deps.json
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\bin\Debug\net6.0\Inheritance I.runtimeconfig.json
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\bin\Debug\net6.0\Inheritance I.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\bin\Debug\net6.0\Inheritance I.pdb
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\refint\Inheritance I.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.pdb
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\Inheritance I.genruntimeconfig.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Inheritance I\obj\Debug\net6.0\ref\Inheritance I.dll
