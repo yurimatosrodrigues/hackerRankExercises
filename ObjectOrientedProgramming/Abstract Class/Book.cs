@@ -1,11 +1,10 @@
 using System;
 namespace AbstractClass{
-    public abstract class Book{
-        public string? title;
-
-        public abstract void SetTitle(string? s);
-        public string GetTitle(){
-            return title??"";
+    abstract class Book{
+        protected string? _title;
+        protected internal abstract void SetTitle(string? s);
+        protected internal string GetTitle(){
+            return _title ?? "";
         }
     }
 }

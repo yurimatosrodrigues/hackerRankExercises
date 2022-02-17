@@ -1,9 +1,9 @@
 ﻿using System;
 namespace AbstractClass{
 
-     public class MyBook : Book{
-            public override void SetTitle(string? s){
-                title = s;
+     class MyBook : Book{
+            protected internal override void SetTitle(string? s){
+                _title = s;
             }
         }
 
@@ -12,7 +12,7 @@ namespace AbstractClass{
             string? title = Console.ReadLine();
             MyBook myBook = new MyBook();
             myBook.SetTitle(title);
-            Console.WriteLine("The title is: {0}", myBook.GetTitle());
+            Console.WriteLine("The title is: {0}", myBook.GetTitle());                        
         }
     }
 }
