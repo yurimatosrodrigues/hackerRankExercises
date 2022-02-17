@@ -1,7 +1,9 @@
 namespace Inheritance_II{
-    public class Arithmetic{
+    internal class Arithmetic{
         public int Add(int a, int b){
             return a+b;
         }
+    }
+    class Adder : Arithmetic{
     }
 }
