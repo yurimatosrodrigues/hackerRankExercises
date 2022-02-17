@@ -1,0 +1,15 @@
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.csproj.AssemblyReference.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.AssemblyInfoInputs.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.AssemblyInfo.cs
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.csproj.CoreCompileInputs.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\bin\Debug\net6.0\Abstract Class.exe
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\bin\Debug\net6.0\Abstract Class.deps.json
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\bin\Debug\net6.0\Abstract Class.runtimeconfig.json
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\bin\Debug\net6.0\Abstract Class.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\bin\Debug\net6.0\Abstract Class.pdb
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\refint\Abstract Class.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.pdb
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\Abstract Class.genruntimeconfig.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\Abstract Class\obj\Debug\net6.0\ref\Abstract Class.dll
