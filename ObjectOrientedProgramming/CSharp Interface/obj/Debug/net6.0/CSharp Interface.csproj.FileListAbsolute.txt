@@ -1,0 +1,15 @@
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.csproj.AssemblyReference.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.AssemblyInfoInputs.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.AssemblyInfo.cs
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.csproj.CoreCompileInputs.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\bin\Debug\net6.0\CSharp Interface.exe
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\bin\Debug\net6.0\CSharp Interface.deps.json
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\bin\Debug\net6.0\CSharp Interface.runtimeconfig.json
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\bin\Debug\net6.0\CSharp Interface.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\bin\Debug\net6.0\CSharp Interface.pdb
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\refint\CSharp Interface.dll
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.pdb
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\CSharp Interface.genruntimeconfig.cache
+C:\repos\hackerRankExercises\ObjectOrientedProgramming\CSharp Interface\obj\Debug\net6.0\ref\CSharp Interface.dll
