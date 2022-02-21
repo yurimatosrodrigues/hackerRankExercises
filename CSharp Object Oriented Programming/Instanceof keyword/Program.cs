@@ -9,8 +9,7 @@ namespace InstanceOfKeyword{
     class Program{
         static string Count(ArrayList mylist){
             int a = 0,b = 0,c = 0;
-            for(int i = 0; i < mylist.Count; i++){
-                //Object element = mylist. ;
+            for(int i = 0; i < mylist.Count; i++){                
                 if(mylist[i].GetType() == typeof(Student))
                     a++;
                 if(mylist[i].GetType() == typeof(RockStar))
@@ -24,12 +23,14 @@ namespace InstanceOfKeyword{
 
         static void Main(){
             ArrayList myList = new ArrayList();
-            var t = int.Parse(Console.ReadLine());
+            var t = int.Parse(Console.ReadLine());            
             for(int i=0; i<t; i++){
-                string s = Console.ReadLine();
-                if(s.Equals("Student")) myList.Add(new Student());
-                if(s.Equals("Rockstar")) myList.Add(new Student());
-                if(s.Equals("Hacker")) myList.Add(new Student());
+                string? s = Console.ReadLine();
+                if(!DBNull.Value.Equals(s)){
+                    if(s.Equals("Student")) myList.Add(new Student());
+                    if(s.Equals("Rockstar")) myList.Add(new RockStar());
+                    if(s.Equals("Hacker")) myList.Add(new Hacker());
+                }
             }
             Console.WriteLine(Count(myList));
         }
