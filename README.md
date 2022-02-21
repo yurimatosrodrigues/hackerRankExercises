@@ -2,4 +2,7 @@
 
 ## Repo dedicado a resolução de exercícios do Hacker Rank. ✔️
 
-### Alguns exercícios de Programação Orientada a Objetos estão disponíveis apenas em Java ♨️, então decidi resolver em C# para praticar e movimentar o GitHub.
+### Alguns exercícios foram criados de forma privada para aulas de Lógica de Programação
+
+### Os exercícios de Programação Orientada a Objetos (OOP) estão disponíveis apenas em Java ♨️
+### Então, para estudar e praticar, converti e resolvi os exercícios de Java em C#.
