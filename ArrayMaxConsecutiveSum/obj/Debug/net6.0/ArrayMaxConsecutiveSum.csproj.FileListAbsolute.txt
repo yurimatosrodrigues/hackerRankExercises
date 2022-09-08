@@ -1,0 +1,15 @@
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.csproj.AssemblyReference.cache
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.AssemblyInfoInputs.cache
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.AssemblyInfo.cs
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.csproj.CoreCompileInputs.cache
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\bin\Debug\net6.0\ArrayMaxConsecutiveSum.exe
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\bin\Debug\net6.0\ArrayMaxConsecutiveSum.deps.json
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\bin\Debug\net6.0\ArrayMaxConsecutiveSum.runtimeconfig.json
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\bin\Debug\net6.0\ArrayMaxConsecutiveSum.dll
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\bin\Debug\net6.0\ArrayMaxConsecutiveSum.pdb
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.dll
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\refint\ArrayMaxConsecutiveSum.dll
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.pdb
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ArrayMaxConsecutiveSum.genruntimeconfig.cache
+C:\repos\hackerRankExercises\ArrayMaxConsecutiveSum\obj\Debug\net6.0\ref\ArrayMaxConsecutiveSum.dll
